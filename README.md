@@ -52,6 +52,13 @@ A API fornece os seguintes endpoints:
 * `POST /forums` - Cria um novo fórum.
 * `POST /posts` - Cria um novo post, associado a um fórum e a um autor.
 
+**Console da Base de Dados H2**
+Para inspecionar os dados diretamente no navegador, use:
+* **URL:** [http://localhost:8080/h2-console](http://localhost:8080/h2-console)
+* **JDBC URL:** `jdbc:h2:mem:plataformadb`
+* **User Name:** `sa`
+* **Password:** `password`
+
 ### Estrutura do Projeto
 O projeto está organizado nas seguintes camadas, seguindo as boas práticas do Spring:
 
