@@ -24,7 +24,7 @@ Certifique-se de que tem o **Java 17+** e o **Maven** instalados na sua máquina
 
 1.  **Clonar o repositório:**
     ```bash
-    git clone [https://github.com/SEU_USUARIO/plataforma-profissional-api.git](https://github.com/SEU_USUARIO/plataforma-profissional-api.git)
+    git clone [https://github.com/Lucas041123/API_PPA.git](https://github.com/Lucas041123/API_PPA.git)
     cd plataforma-profissional-api
     ```
 2.  **Construir o projeto:**
