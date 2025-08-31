@@ -36,7 +36,7 @@ Certifique-se de que tem o **Java 17+** e o **Maven** instalados na sua máquina
 
 ### Endpoints da API
 
-A documentação completa e interativa da API está disponível no Swagger UI, que pode ser acedido após a execução do projeto.
+A documentação completa e interativa da API está disponível no Swagger UI, que pode ser acessado após a execução do projeto.
 
 * **Swagger UI:** [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 * **OpenAPI JSON:** [http://localhost:8080/v3/api-docs](http://localhost:8080/v3/api-docs)
