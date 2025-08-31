@@ -69,6 +69,3 @@ O projeto está organizado nas seguintes camadas, seguindo as boas práticas do 
 * `config`: Classes de configuração, como a de segurança.
 * `handler`: Tratamento global de exceções.
 * `dto`: Objetos para transferência de dados.
-
-### Próximos Passos
-O próximo passo do projeto é a **Frente 2: Migração para React Native**, onde a equipa de front-end mobile irá consumir esta API.
